@@ -60,11 +60,11 @@ See [`examples/`](./examples) for more.
 
 ## Integrations
 
-- ✅ OpenTelemetry Collector
-- ✅ Loki, Tempo, ClickHouse, Splunk
-- ✅ Kafka, S3, HTTP, OTLP
-- ✅ Grafana and Prometheus
-- 🧠 Planned: Anomaly detection via ML plugins
+-  OpenTelemetry Collector
+-  Loki, Tempo, ClickHouse, Splunk
+-  Kafka, S3, HTTP, OTLP
+-  Grafana and Prometheus
+-  Planned: Anomaly detection via ML plugins
 
 
 ## License
