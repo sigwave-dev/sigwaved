@@ -57,7 +57,6 @@ See [`examples/`](./examples) for more.
  └─ Output Routes
 ```
 
----
 
 ## Integrations
 
@@ -67,13 +66,11 @@ See [`examples/`](./examples) for more.
 - ✅ Grafana and Prometheus
 - 🧠 Planned: Anomaly detection via ML plugins
 
----
 
 ## License
 
 [MIT](./LICENSE)
 
----
 
 ## Community
 
@@ -81,6 +78,5 @@ See [`examples/`](./examples) for more.
 - GitHub Issues: Use for bugs and proposals
 - Discord: Coming soon
 
----
 
 _Designed with focus. Inspired by systems that scale._
